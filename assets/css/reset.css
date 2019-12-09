@@ -1,0 +1,16 @@
+#theWord {
+    color: teal; 
+    font-style: oblique;
+}
+
+#currentWord {
+    color: green;  
+}
+
+#score {
+    color: blue; 
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
